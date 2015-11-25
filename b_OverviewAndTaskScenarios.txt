@@ -1,0 +1,23 @@
+Team Bike2Go
+ 
+Timothy Dalton
+Kaileen McCulloch
+Daniel Coultish
+Louis Kraak
+Kolby Chapman
+ 
+ 
+General Overview:
+ 
+Our system will offer easy access to bicycles for a cheap price. By incorporating both a website and app for renting, our users can have access to our service in whatever format serves their needs. By keeping the system and interface simple we hope to encourage people to try our system. The main technology our system will incorporate is an app which will allow users to set up a profile, find locations, reserve bicycles, and set up a payment system. Google maps will be used for the location aspect of our app. To get in and out of the locations users can use key cards.
+
+ 
+Task Scenarios:
+ 
+We chose these three task scenarios because they will be performed very frequently (as new users sign up, then add fund, and eventually rent bikes).  
+ 
+1: Jane Doe wants to add more funds to her account. She opens up her app and logs into her account. She clicks on the big, red add funds button which brings up the adds fund screen. She enters the amount of money she wants to add and select to use her credit card information that she has saved to her account. She clicks submit; it prompts her to confirm her transaction, which she does. The system displays her updated balance.
+ 
+2: Sarah heard from her friend Jane Doe that she can rent a bike for cheap. So she googles the website, then downloads the app. Sarah then begins creating her account. After filling in all the required information, she exits the app.
+
+3: Dwayne is trying to set up a camping trip for this coming weekend. He wants to reserve 4 bikes for his family. He logs into his account and chooses the location nearest him and clicks Reserve. The system displays the reservation screen. He chooses the 4 mountain bikes he wants. He sets the pickup day to Saturday and the pickup time to 8am. He clicks Submit. The system displays the cost of his reservation; which he confirms.

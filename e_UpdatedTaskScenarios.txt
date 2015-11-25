@@ -1,0 +1,8 @@
+Updated Task Scenarios
+
+
+1: Jane Doe wants to add more funds to her account. She opens up her app and logs into her account. She clicks on the account details button. She then selects the add funds button. She enters the amount of money she wants to add and select to use her credit card information that she has saved to her account. She clicks submit; it prompts her to confirm her transaction, which she does. The system brings displays her updated balance. 
+
+2: Sarah heard from her friend Jane Doe that she can rent a bike for cheap. So she googles the website, then downloads the app. Sarah then begins creating her account. After filling in all the required information, she exits the app. She then opens netflix and queues up an episode of Breaking Bad.
+
+3: Dwayne is trying to set up a camping trip for this coming weekend. He wants to reserve 4 bikes for his family. He logs into his account and chooses the location nearest him and clicks Reserve. The system displays the reservation screen. He chooses the 4 mountain bikes he wants. He sets the pickup day to Saturday and the pickup time to 8am. He clicks Submit. The system displays the cost of his reservation; which he confirms.
